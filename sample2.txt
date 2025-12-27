@@ -1,1 +1,1 @@
-this is another sample file to learn git command
+this is another sample file to learn git command. These are some more test commands.
